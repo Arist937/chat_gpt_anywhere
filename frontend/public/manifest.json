@@ -7,6 +7,12 @@
       "default_popup": "index.html",
       "default_title": "Open Medium Any Authors Stats"
   },
+
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+
   "icons": {
       "16": "logo192.png",
       "48": "logo192.png",
