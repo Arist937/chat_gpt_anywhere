@@ -1,4 +1,4 @@
-Put README here
+DEPRECATED
 
 `.\venv\Scripts\activate`
 `python .\server.py`
